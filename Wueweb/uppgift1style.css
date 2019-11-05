@@ -1,0 +1,40 @@
+
+p.two {
+    text-align: center;
+    color: darkred:
+    font-size: 300%
+  }
+
+  p.three {
+    font-size:
+  }
+
+  #billy {
+    border-radius: 5px;
+    border: 1px solid purple;
+  }
+
+  #bob {
+    border-radius: 5px;
+    border: 1px solid purple;
+  }
+
+  #bob .two a {
+    color: orange;
+    text-decoration:underline overline;
+  }
+
+  #bob a {
+    text-decoration: line-through;
+  }
+
+html {
+    background-color: lightslategrey
+}
+body {
+   margin: auto;
+   max-width: 600px;
+   height: 600px;
+   background-color: azure;
+   font-family: arial, sans-serif;
+}

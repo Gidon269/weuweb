@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8" />
+    <title>Uppgift 1 centrera</title>
+    <link href="uppgift1style.css" rel="stylesheet" type="text/css">
+  </head>
+<body>
+<h1>Uppgift 1 centrera</h1>
+<div id="billy">
+  <p style="font-family:Courier; color:purple; font-size: 20px;">
+  </p>
+  <h2> {
+    border-style: solid;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-rigth-width: 10px;
+    border-color: red;
+    border-radius: 20px;
+  }
+</h2>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Suspendisse imperdiet velit sit amet neque tempor et imperdiet augue <a href="">porttitor</a>.
+  </p>
+  <p class="two">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Suspendisse imperdiet velit sit amet neque tempor et imperdiet augue <a href="">porttitor</a>.
+  </p>
+  <p class="three">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Suspendisse imperdiet velit sit amet neque tempor et imperdiet augue <a href="">porttitor</a>.
+  </p>
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Suspendisse imperdiet velit sit amet neque tempor et imperdiet augue <a href="">porttitor</a>.
+  </p>
+</div>
+<div id="bob">
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Suspendisse imperdiet velit sit amet neque tempor et imperdiet augue <a href="">porttitor</a>.
+  </p>
+  <p class="two">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Suspendisse imperdiet velit sit amet neque tempor et imperdiet augue <a href="">porttitor</a>.
+  </p>
+  <p class="three">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Suspendisse imperdiet velit sit amet neque tempor et imperdiet augue <a href="">porttitor</a>.
+  </p>
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Suspendisse imperdiet velit sit amet neque tempor et imperdiet augue <a href="">porttitor</a>.
+  </p>
+</div>
+html {
+    background-color: lightslategrey
+}
+body {
+   margin: auto;
+   max-width: 600px;
+   height: 600px;
+   background-color: azure;
+}
+</body>
+</html>
